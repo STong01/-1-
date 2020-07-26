@@ -34,7 +34,7 @@ bool duplicate(int numbers[], int length, int* duplication)
 	return true;
 }
 
-int main()
+int main1()
 {
 	system("pause");
 	return 0;
